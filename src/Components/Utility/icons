@@ -1,0 +1,21 @@
+      import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
+      
+        <FontAwesomeIcon icon={faMagnifyingGlass} />
+              <FontAwesomeIcon icon={faBarsStaggered} />
+
+              <FontAwesomeIcon icon={faStar} />
+              <FontAwesomeIcon icon={faStarHalfStroke} />
+              <FontAwesomeIcon icon={faStar} />
+              <FontAwesomeIcon icon={faHeartCirclePlus} />
+              <FontAwesomeIcon icon={faHeart} />
+              <FontAwesomeIcon icon={faCartShopping} />
+              <FontAwesomeIcon icon="fa-regular fa-heart" />
+              <FontAwesomeIcon icon={faAnglesLeft} />
+              <FontAwesomeIcon icon={faAnglesRight} />
+              <FontAwesomeIcon icon={faUser} />
+              <FontAwesomeIcon icon={faCommentDots} />
+              <FontAwesomeIcon icon={faPlus} />
+              <FontAwesomeIcon icon={faTrashCan} />
+              <FontAwesomeIcon icon={faPenToSquare} />
+              <FontAwesomeIcon icon={faCheck} />
